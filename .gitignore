@@ -20,3 +20,11 @@ node_modules
 /pip_test
 /_python_build
 *.pyc
+
+*.gz
+
+*.png
+
+*.pickle
+
+*.pickle
